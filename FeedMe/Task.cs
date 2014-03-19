@@ -1,0 +1,6 @@
+﻿namespace FeedMe
+{
+    class Task
+    {
+    }
+}
